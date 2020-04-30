@@ -1,0 +1,27 @@
+* {
+  font-size: 14px;
+}
+
+body {
+  background-color: #eeeded;
+}
+
+.fixed-container {
+  max-width: 1000px;
+  padding-top: 50px;
+}
+
+#color-picker {
+  visibility: hidden;
+}
+
+/* input form */
+
+.editor-box {
+  flex-basis: 75%;
+}
+
+#text {
+  height: 50vh;
+  resize: none;
+}
